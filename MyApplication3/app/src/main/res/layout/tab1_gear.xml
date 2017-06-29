@@ -1,27 +1,172 @@
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:paddingBottom="@dimen/activity_vertical_margin"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="ga.rs_swag.myapplication.MainActivity$SectionsPagerAdapter"
-    android:background="@drawable/bg_geartab">
-
-    <TextView
-        android:id="@+id/section_label"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+    android:background="@drawable/bg_geartab"
+    tools:layout_editor_absoluteY="81dp"
+    tools:layout_editor_absoluteX="0dp">
 
     <ImageButton
+        android:id="@+id/btn_helm"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/btnhelm"
-        android:src="@drawable/helm"
-        android:layout_centerHorizontal="true"
         android:adjustViewBounds="true"
-        android:cropToPadding="false"
-        android:background="#00000000"
-        android:scaleType="fitXY" />
-</RelativeLayout>
+        android:padding="1dp"
+        android:src="@drawable/helm"
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintRight_creator="1"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginTop="14dp"
+        tools:layout_constraintLeft_creator="1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/btn_cape"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:padding="1dp"
+        android:src="@drawable/cape"
+        tools:layout_constraintBottom_creator="1"
+        app:layout_constraintBottom_toTopOf="@+id/btn_weapon"
+        android:layout_marginStart="14dp"
+        tools:layout_constraintLeft_creator="1"
+        android:layout_marginBottom="5dp"
+        app:layout_constraintLeft_toLeftOf="@+id/btn_weapon"
+        android:layout_marginLeft="14dp" />
+
+    <ImageButton
+        android:id="@+id/btn_weapon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:padding="1dp"
+        android:src="@drawable/weapon"
+        tools:layout_constraintTop_creator="1"
+        android:layout_marginStart="15dp"
+        tools:layout_constraintLeft_creator="1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/btn_body"
+        android:layout_marginLeft="15dp" />
+
+    <ImageButton
+        android:id="@+id/btn_gloves"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:padding="1dp"
+        android:src="@drawable/gloves"
+        tools:layout_constraintTop_creator="1"
+        android:layout_marginTop="7dp"
+        app:layout_constraintTop_toBottomOf="@+id/btn_weapon"
+        tools:layout_constraintLeft_creator="1"
+        app:layout_constraintLeft_toLeftOf="@+id/btn_weapon" />
+
+    <ImageButton
+        android:id="@+id/btn_quiver"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:padding="1dp"
+        android:src="@drawable/quiver"
+        android:layout_marginStart="7dp"
+        tools:layout_constraintBottom_creator="1"
+        app:layout_constraintBottom_toTopOf="@+id/btn_shield"
+        tools:layout_constraintLeft_creator="1"
+        android:layout_marginBottom="5dp"
+        app:layout_constraintLeft_toRightOf="@+id/btn_amulet"
+        android:layout_marginLeft="7dp" />
+
+    <ImageButton
+        android:id="@+id/btn_shield"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:padding="1dp"
+        android:src="@drawable/shield"
+        tools:layout_constraintBottom_creator="1"
+        app:layout_constraintBottom_toTopOf="@+id/btn_ring"
+        android:layout_marginStart="14dp"
+        tools:layout_constraintLeft_creator="1"
+        android:layout_marginBottom="7dp"
+        app:layout_constraintLeft_toLeftOf="@+id/btn_quiver"
+        android:layout_marginLeft="14dp" />
+
+    <ImageButton
+        android:id="@+id/btn_ring"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:padding="1dp"
+        android:src="@drawable/ring"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintBottom_creator="1"
+        app:layout_constraintBottom_toTopOf="@+id/btn_boots"
+        app:layout_constraintRight_toRightOf="@+id/btn_shield"
+        tools:layout_constraintLeft_creator="1"
+        android:layout_marginBottom="5dp"
+        app:layout_constraintLeft_toLeftOf="@+id/btn_shield" />
+
+    <ImageButton
+        android:id="@+id/btn_amulet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:padding="1dp"
+        android:src="@drawable/amulet"
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintRight_creator="1"
+        app:layout_constraintRight_toRightOf="@+id/btn_helm"
+        app:layout_constraintTop_toBottomOf="@+id/btn_helm"
+        tools:layout_constraintLeft_creator="1"
+        app:layout_constraintLeft_toLeftOf="@+id/btn_helm" />
+
+    <ImageButton
+        android:id="@+id/btn_body"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:padding="1dp"
+        android:src="@drawable/body"
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintRight_creator="1"
+        app:layout_constraintRight_toRightOf="@+id/btn_amulet"
+        android:layout_marginTop="10dp"
+        app:layout_constraintTop_toBottomOf="@+id/btn_amulet"
+        tools:layout_constraintLeft_creator="1"
+        app:layout_constraintLeft_toLeftOf="@+id/btn_amulet" />
+
+    <ImageButton
+        android:id="@+id/btn_legs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:padding="1dp"
+        android:src="@drawable/legs"
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintRight_creator="1"
+        app:layout_constraintRight_toRightOf="@+id/btn_body"
+        android:layout_marginTop="7dp"
+        app:layout_constraintTop_toBottomOf="@+id/btn_body"
+        tools:layout_constraintLeft_creator="1"
+        app:layout_constraintLeft_toLeftOf="@+id/btn_body" />
+
+    <ImageButton
+        android:id="@+id/btn_boots"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:padding="1dp"
+        android:src="@drawable/boots"
+        tools:layout_constraintBottom_creator="1"
+        android:layout_marginStart="1dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:layout_constraintLeft_creator="1"
+        android:layout_marginBottom="7dp"
+        app:layout_constraintLeft_toLeftOf="@+id/btn_legs"
+        android:layout_marginLeft="1dp" />
+
+</android.support.constraint.ConstraintLayout>

@@ -16,5 +16,6 @@ public class tab1gear extends Fragment {
         View rootView = inflater.inflate(R.layout.tab1_gear, container, false);
         return rootView;
     }
+
 }
 
