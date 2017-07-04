@@ -19,7 +19,6 @@ c:\users\dimitri\documents\visual studio 2017\Projects\RSSwagga\RSSwagga\obj\Deb
 C:\Users\Dimitri\documents\visual studio 2017\Projects\RSSwagga\RSSwagga\obj\Debug\res\values\themes.xml
 C:\Users\Dimitri\documents\visual studio 2017\Projects\RSSwagga\RSSwagga\obj\Debug\res\drawable\favicon-32x32.png
 C:\Users\Dimitri\documents\visual studio 2017\Projects\RSSwagga\RSSwagga\obj\Debug\res\values\colors.xml
-C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\RSSwagga.csprojResolveAssemblyReference.cache
 C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\RSSwagga.dll
 C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\RSSwagga.pdb
 C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\bin\Debug\RSSwagga.dll
@@ -51,8 +50,6 @@ C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\res\drawa
 C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\res\values\colors.xml
 C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\R.cs.flag
 C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\uploadflags.txt
-C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\bin\Debug\RSSwagga.dll.mdb
-C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\android\assets\RSSwagga.dll.mdb
 C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\res\drawable\amulet.png
 C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\res\drawable\bg_geartab.png
 C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\res\drawable\body.png
@@ -65,3 +62,6 @@ C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\res\drawa
 C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\res\drawable\ring.png
 C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\res\drawable\shield.png
 C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\res\drawable\weapon.png
+C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\RSSwagga.csprojResolveAssemblyReference.cache
+C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\bin\Debug\RSSwagga.dll.mdb
+C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\android\assets\RSSwagga.dll.mdb
