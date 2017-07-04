@@ -42,7 +42,6 @@ C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\XbdMerge\
 C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
 C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\android\bin\RSSwagga.RSSwagga.apk
 C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\res\layout\fragment_sample.xml
-C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\res\layout\pager_item.xml
 C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\res\layout\main.xml
 C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\res\values\strings.xml
 C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\res\drawable\icon.png
@@ -53,3 +52,4 @@ C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\R.cs.flag
 C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\uploadflags.txt
 C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\bin\Debug\RSSwagga.dll.mdb
 C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\android\assets\RSSwagga.dll.mdb
+C:\Users\FrTim1908\Documents\androidswagga\RSSwagga\RSSwagga\obj\Debug\res\layout\pager_itemm.xml
