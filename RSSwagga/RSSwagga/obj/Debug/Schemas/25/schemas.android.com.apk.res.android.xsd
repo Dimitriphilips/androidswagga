@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v25</xs:documentation>
-    <xs:documentation>7/4/2017 12:19:13 PM</xs:documentation>
+    <xs:documentation>7/4/2017 12:22:04 PM</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -17663,12 +17663,23 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@+id/" />
             <xs:enumeration value="@+id/checkedTextView1" />
+            <xs:enumeration value="@id/amulet" />
+            <xs:enumeration value="@id/body" />
+            <xs:enumeration value="@id/boots" />
+            <xs:enumeration value="@id/btnhelm" />
+            <xs:enumeration value="@id/cape" />
+            <xs:enumeration value="@id/gloves" />
             <xs:enumeration value="@id/item_subtitle" />
             <xs:enumeration value="@id/item_title" />
+            <xs:enumeration value="@id/legs" />
+            <xs:enumeration value="@id/quiver" />
+            <xs:enumeration value="@id/ring" />
             <xs:enumeration value="@id/sample_content_fragment" />
             <xs:enumeration value="@id/sample_main_layout" />
+            <xs:enumeration value="@id/shield" />
             <xs:enumeration value="@id/sliding_tabs" />
             <xs:enumeration value="@id/viewpager" />
+            <xs:enumeration value="@id/weapon" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
             <xs:enumeration value="@android:id/accessibilityActionScrollDown" />
             <xs:enumeration value="@android:id/accessibilityActionScrollLeft" />
