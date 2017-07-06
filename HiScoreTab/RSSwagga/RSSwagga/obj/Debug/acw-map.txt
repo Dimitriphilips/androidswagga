@@ -1,0 +1,4 @@
+RSSwagga.MainActivity, RSSwagga;md5b98ddd9e8c28d328646b4f595027dcdb.MainActivity
+RSSwagga.MainActivity, RSSwagga, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b98ddd9e8c28d328646b4f595027dcdb.MainActivity
+RSSwagga.MainActivity;md5b98ddd9e8c28d328646b4f595027dcdb.MainActivity
+rsswagga.MainActivity;md5b98ddd9e8c28d328646b4f595027dcdb.MainActivity

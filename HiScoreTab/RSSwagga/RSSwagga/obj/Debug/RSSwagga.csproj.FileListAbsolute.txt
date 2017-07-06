@@ -1,0 +1,60 @@
+C:\Users\Dimitri\documents\visual studio 2017\Projects\RSSwagga\RSSwagga\bin\Debug\RSSwagga.dll
+C:\Users\Dimitri\documents\visual studio 2017\Projects\RSSwagga\RSSwagga\bin\Debug\RSSwagga.pdb
+C:\Users\Dimitri\documents\visual studio 2017\Projects\RSSwagga\RSSwagga\bin\Debug\RSSwagga.RSSwagga.apk
+C:\Users\Dimitri\documents\visual studio 2017\Projects\RSSwagga\RSSwagga\bin\Debug\RSSwagga.RSSwagga-Signed.apk
+C:\Users\Dimitri\documents\visual studio 2017\Projects\RSSwagga\RSSwagga\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dimitri\documents\visual studio 2017\Projects\RSSwagga\RSSwagga\bin\Debug\RestSharp.dll
+C:\Users\Dimitri\documents\visual studio 2017\Projects\RSSwagga\RSSwagga\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dimitri\documents\visual studio 2017\Projects\RSSwagga\RSSwagga\bin\Debug\RestSharp.xml
+C:\Users\Dimitri\documents\visual studio 2017\Projects\RSSwagga\RSSwagga\obj\Debug\RSSwagga.dll
+C:\Users\Dimitri\documents\visual studio 2017\Projects\RSSwagga\RSSwagga\obj\Debug\RSSwagga.pdb
+C:\Users\Dimitri\documents\visual studio 2017\Projects\RSSwagga\RSSwagga\obj\Debug\android\bin\RSSwagga.RSSwagga.apk
+C:\Users\Dimitri\documents\visual studio 2017\Projects\RSSwagga\RSSwagga\obj\Debug\res\layout\hiscoreslayout.xml
+C:\Users\Dimitri\documents\visual studio 2017\Projects\RSSwagga\RSSwagga\obj\Debug\res\layout\main.xml
+C:\Users\Dimitri\documents\visual studio 2017\Projects\RSSwagga\RSSwagga\obj\Debug\res\values\strings.xml
+C:\Users\Dimitri\documents\visual studio 2017\Projects\RSSwagga\RSSwagga\obj\Debug\res\drawable\icon.png
+C:\Users\Dimitri\documents\visual studio 2017\Projects\RSSwagga\RSSwagga\obj\Debug\R.cs.flag
+C:\Users\Dimitri\documents\visual studio 2017\Projects\RSSwagga\RSSwagga\obj\Debug\uploadflags.txt
+C:\Users\Dimitri\documents\visual studio 2017\Projects\RSSwagga\RSSwagga\obj\Debug\RSSwagga.csprojResolveAssemblyReference.cache
+C:\Users\Dimitri\documents\visual studio 2017\Projects\RSSwagga\RSSwagga\bin\Debug\RSSwagga.dll.mdb
+C:\Users\Dimitri\documents\visual studio 2017\Projects\RSSwagga\RSSwagga\obj\Debug\android\assets\RSSwagga.dll.mdb
+C:\Users\Dimitri\Documents\Visual Studio 2017\Projects\HiScoreTab\RSSwagga\bin\Debug\RSSwagga.dll
+C:\Users\Dimitri\Documents\Visual Studio 2017\Projects\HiScoreTab\RSSwagga\bin\Debug\RSSwagga.pdb
+C:\Users\Dimitri\Documents\Visual Studio 2017\Projects\HiScoreTab\RSSwagga\bin\Debug\RSSwagga.RSSwagga.apk
+C:\Users\Dimitri\Documents\Visual Studio 2017\Projects\HiScoreTab\RSSwagga\bin\Debug\RSSwagga.RSSwagga-Signed.apk
+C:\Users\Dimitri\Documents\Visual Studio 2017\Projects\HiScoreTab\RSSwagga\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dimitri\Documents\Visual Studio 2017\Projects\HiScoreTab\RSSwagga\bin\Debug\RestSharp.dll
+C:\Users\Dimitri\Documents\Visual Studio 2017\Projects\HiScoreTab\RSSwagga\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dimitri\Documents\Visual Studio 2017\Projects\HiScoreTab\RSSwagga\bin\Debug\RestSharp.xml
+C:\Users\Dimitri\Documents\Visual Studio 2017\Projects\HiScoreTab\RSSwagga\obj\Debug\RSSwagga.csprojResolveAssemblyReference.cache
+C:\Users\Dimitri\Documents\Visual Studio 2017\Projects\HiScoreTab\RSSwagga\obj\Debug\RSSwagga.dll
+C:\Users\Dimitri\Documents\Visual Studio 2017\Projects\HiScoreTab\RSSwagga\obj\Debug\RSSwagga.pdb
+C:\Users\Dimitri\Documents\Visual Studio 2017\Projects\HiScoreTab\RSSwagga\obj\Debug\android\bin\RSSwagga.RSSwagga.apk
+C:\Users\Dimitri\Documents\Visual Studio 2017\Projects\HiScoreTab\RSSwagga\obj\Debug\res\layout\hiscoreslayout.xml
+C:\Users\Dimitri\Documents\Visual Studio 2017\Projects\HiScoreTab\RSSwagga\obj\Debug\res\layout\main.xml
+C:\Users\Dimitri\Documents\Visual Studio 2017\Projects\HiScoreTab\RSSwagga\obj\Debug\res\values\strings.xml
+C:\Users\Dimitri\Documents\Visual Studio 2017\Projects\HiScoreTab\RSSwagga\obj\Debug\res\drawable\icon.png
+C:\Users\Dimitri\Documents\Visual Studio 2017\Projects\HiScoreTab\RSSwagga\obj\Debug\R.cs.flag
+C:\Users\Dimitri\Documents\Visual Studio 2017\Projects\HiScoreTab\RSSwagga\obj\Debug\uploadflags.txt
+C:\Users\Dimitri\Documents\Visual Studio 2017\Projects\HiScoreTab\RSSwagga\bin\Debug\RSSwagga.dll.mdb
+C:\Users\Dimitri\Documents\Visual Studio 2017\Projects\HiScoreTab\RSSwagga\obj\Debug\android\assets\RSSwagga.dll.mdb
+C:\Users\Dimitri\Documents\androidswagga\HiScoreTab\RSSwagga\RSSwagga\bin\Debug\RSSwagga.dll
+C:\Users\Dimitri\Documents\androidswagga\HiScoreTab\RSSwagga\RSSwagga\bin\Debug\RSSwagga.pdb
+C:\Users\Dimitri\Documents\androidswagga\HiScoreTab\RSSwagga\RSSwagga\bin\Debug\RSSwagga.RSSwagga.apk
+C:\Users\Dimitri\Documents\androidswagga\HiScoreTab\RSSwagga\RSSwagga\bin\Debug\RSSwagga.RSSwagga-Signed.apk
+C:\Users\Dimitri\Documents\androidswagga\HiScoreTab\RSSwagga\RSSwagga\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dimitri\Documents\androidswagga\HiScoreTab\RSSwagga\RSSwagga\bin\Debug\RestSharp.dll
+C:\Users\Dimitri\Documents\androidswagga\HiScoreTab\RSSwagga\RSSwagga\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dimitri\Documents\androidswagga\HiScoreTab\RSSwagga\RSSwagga\bin\Debug\RestSharp.xml
+C:\Users\Dimitri\Documents\androidswagga\HiScoreTab\RSSwagga\RSSwagga\obj\Debug\RSSwagga.csprojResolveAssemblyReference.cache
+C:\Users\Dimitri\Documents\androidswagga\HiScoreTab\RSSwagga\RSSwagga\obj\Debug\RSSwagga.dll
+C:\Users\Dimitri\Documents\androidswagga\HiScoreTab\RSSwagga\RSSwagga\obj\Debug\RSSwagga.pdb
+C:\Users\Dimitri\Documents\androidswagga\HiScoreTab\RSSwagga\RSSwagga\obj\Debug\android\bin\RSSwagga.RSSwagga.apk
+C:\Users\Dimitri\Documents\androidswagga\HiScoreTab\RSSwagga\RSSwagga\obj\Debug\res\layout\hiscoreslayout.xml
+C:\Users\Dimitri\Documents\androidswagga\HiScoreTab\RSSwagga\RSSwagga\obj\Debug\res\layout\main.xml
+C:\Users\Dimitri\Documents\androidswagga\HiScoreTab\RSSwagga\RSSwagga\obj\Debug\res\values\strings.xml
+C:\Users\Dimitri\Documents\androidswagga\HiScoreTab\RSSwagga\RSSwagga\obj\Debug\res\drawable\icon.png
+C:\Users\Dimitri\Documents\androidswagga\HiScoreTab\RSSwagga\RSSwagga\obj\Debug\R.cs.flag
+C:\Users\Dimitri\Documents\androidswagga\HiScoreTab\RSSwagga\RSSwagga\obj\Debug\uploadflags.txt
+C:\Users\Dimitri\Documents\androidswagga\HiScoreTab\RSSwagga\RSSwagga\bin\Debug\RSSwagga.dll.mdb
+C:\Users\Dimitri\Documents\androidswagga\HiScoreTab\RSSwagga\RSSwagga\obj\Debug\android\assets\RSSwagga.dll.mdb

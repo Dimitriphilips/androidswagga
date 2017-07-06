@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:scrollbars="none">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:id="@+id/userSection">
+            <TextView
+                android:text="UserName:"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_width="100dp"
+                android:layout_height="40dp"
+                android:gravity="center"
+                android:id="@+id/userLabel" />
+            <EditText
+                android:hint="Enter Username"
+                android:layout_width="100dp"
+                android:layout_height="50dp"
+                android:id="@+id/userText"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:gravity="center"
+                android:layout_marginLeft="5dp" />
+            <Button
+                android:id="@+id/getHiScoreButton"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="Get HiScores" />
+        </LinearLayout>
+        <TableLayout
+            android:id="@+id/tableLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="10dip"
+            android:isScrollContainer="true"
+            android:weightSum="100">
+            <TableRow
+                android:id="@+id/columnName"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="#D1B581">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="SKILL"
+                    android:textColor="#333333"
+                    android:layout_weight="25" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="RANK"
+                    android:textColor="#333333"
+                    android:layout_weight="25" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="LEVEL"
+                    android:textColor="#333333"
+                    android:layout_weight="25" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="XP"
+                    android:textColor="#333333"
+                    android:layout_weight="25" />
+            </TableRow>
+            <TableRow
+                android:id="@+id/rowOverall"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="#333333">
+                <ListView
+                    android:id="@+id/listSkill"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:textSize="8sp"
+                    android:text="SKILL"
+                    android:textColor="#000000"
+                    android:layout_weight="25" />
+                <ListView
+                    android:id="@+id/listRank"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:textSize="8sp"
+                    android:text="RANK"
+                    android:textColor="#000000"
+                    android:layout_weight="25" />
+                <ListView
+                    android:id="@+id/listLevel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:textSize="8sp"
+                    android:text="LEVEL"
+                    android:textColor="#000000"
+                    android:layout_weight="25" />
+                <ListView
+                    android:id="@+id/listXp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:textSize="8sp"
+                    android:text="XP"
+                    android:textColor="#000000"
+                    android:layout_weight="25" />
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+</LinearLayout>
